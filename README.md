@@ -4,4 +4,4 @@ Daily programming records.
 
 Leetcode List：[hanelalo/leetcode](https://github.com/hanelalo/leetcode)
 
-Blog：[假隐士](https://hanelalo.cn)
+Blog：https://hanelalo.github.io
