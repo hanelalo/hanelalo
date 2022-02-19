@@ -2,6 +2,6 @@
 
 Daily programming records.
 
-刷题记录：[hanelalo/leetcode](https://github.com/hanelalo/leetcode)
+Leetcode List：[hanelalo/leetcode](https://github.com/hanelalo/leetcode)
 
 Blog：[假隐士](https://hanelalo.cn)
