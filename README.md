@@ -2,6 +2,4 @@
 
 Daily programming records.
 
-Leetcode List：[hanelalo/leetcode](https://github.com/hanelalo/leetcode)
-
 Blog：https://hanelalo.github.io
