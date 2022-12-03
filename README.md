@@ -2,4 +2,4 @@
 
 Daily programming records.
 
-Blog：https://hanelalo.github.io
+Blog：https://hanelalo.cn
